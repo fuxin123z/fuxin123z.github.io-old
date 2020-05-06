@@ -3,7 +3,7 @@ layout: page
 title: 关于我 
 ---
 
-一个 iOS SDK 开发者，喜欢研究一些新技术。
+一个 开发者，喜欢研究一些新技术。
 <p>
 平时喜欢整理个人博客，逛逛技术论坛。
 <p>
@@ -29,7 +29,7 @@ title: 关于我
 
 <p> 
 
-博客源码在 <a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
+博客源码在 <a target="_blank" href='fuxin123z.github.io'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
 
 <p> 
 
@@ -41,11 +41,11 @@ title: 关于我
 <h3> 如何联系我 </h3>  
 
 <p> 
-email：leoparpan@icloud.com       
+email：444216502@qq.com      
 <p> 
-qq: 1499065178     
+qq: 444216502@qq.com 
 <p> 
-如果有 搭建博客 或者 移动端 技术的问题可以一起讨论.
+如果有  技术的问题可以一起讨论.
 <p> 
 
 
