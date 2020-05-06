@@ -6,35 +6,35 @@ description: 欢迎来到我的个人站~
 avatarTitle: fuxin1
 # 头像里面的描述
 avatarDesc: 学习
-url: "https://fuxin123z.github.io/fu.github.io"
+url: "https://fuxin123z.github.io"
 
 # Comment
 comment:
-    disqus: leopard
+    # disqus: leopard
     # gitment: xxx // 需要修改 comments.html中的client_id和client_secret
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    weibo: fu
+    github: fuxin123z
     # zhihu: panpanleopard
     # juejin: xxx
     jianshu: 2ada30d8d0f7
-    # twitter: 
-    mail: leopardpan@icloud.com
+    twitter:
+    mail: 444216502@qq.com
 
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
 baidu:
-    id: xxxx  
+    id: f911049711f4b2dcc189ca880202aa63
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
-ga:
-    id: xxxx  
-    host: auto  
+#ga:
+    #id: xxxx
+   # host: auto  
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
