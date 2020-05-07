@@ -1,0 +1,72 @@
+I"�<p>教师，喜欢研究。</p>
+<p>
+平时喜欢逛逛技术论坛。
+<p>
+了解一些 前端 简单用法。
+
+<p>
+
+<h2> blog </h2>  
+
+<p>
+
+很高兴大家阅览我的文章。
+
+<p>
+
+如果你想搭建一个跟我一样的博客，可以看我的 
+
+教程
+
+<p>
+
+有关于文章的建议和意见都可以提给我~ 
+
+<p> 
+
+源码在 <a target="_blank" href="fuxin123z.github.io">Github</a> 上
+
+<p> 
+
+<p> 
+
+<p> 
+
+
+<h3> 如何联系我 </h3>  
+
+<p> 
+email：444216502@qq.com      
+<p> 
+qq: 444216502@qq.com 
+<p> 
+如果有  技术的问题可以一起讨论.
+<p> 
+
+
+<section class="post-comments">
+
+ <!-- 来必力City版安装代码 -->
+<div id="lv-container" data-id="city" data-uid="MTAyMC81MDAwMy8yNjQ5NA==">
+	<script type="text/javascript">
+   (function(d, s) {
+       var j, e = d.getElementsByTagName(s)[0];
+
+       if (typeof LivereTower === 'function') { return; }
+
+       j = d.createElement(s);
+       j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+       j.async = true;
+
+       e.parentNode.insertBefore(j, e);
+   })(document, 'script');
+	</script>
+<noscript> 为正常使用来必力评论功能请激活JavaScript</noscript>
+</div>
+<!-- City版安装代码已完成 -->
+
+</section>
+
+
+</p></p></p></p></p></p></p></p></p></p></p></p></p></p>
+:ET
