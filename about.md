@@ -29,7 +29,7 @@ title: 关于我
 
 <p> 
 
-源码在 <a target="_blank" href='fuxin123z.github.io'>Github</a> 上
+blog <a target="_blank" href='fuxin123z.github.io'>Github</a> 
 
 <p> 
 
@@ -43,9 +43,9 @@ title: 关于我
 <p> 
 email：444216502@qq.com      
 <p> 
-qq: 444216502
+
 <p> 
-如果有  技术的问题可以一起讨论.
+如果有问题可以一起讨论.
 <p> 
 
 
