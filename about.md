@@ -27,11 +27,7 @@ title: 关于我
 
 有关于文章的建议和意见都可以提给我~ 
 
-<p> 
 
-blog <a target="_blank" href='fuxin123z.github.io'>Github</a> 
-
-<p> 
 
 <p> 
 
